@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\RecurseMet\RecurseMet\bin\Debug\RecurseMet.exe.config
+C:\Users\Admin\source\repos\RecurseMet\RecurseMet\bin\Debug\RecurseMet.exe
+C:\Users\Admin\source\repos\RecurseMet\RecurseMet\bin\Debug\RecurseMet.pdb
+C:\Users\Admin\source\repos\RecurseMet\RecurseMet\obj\Debug\RecurseMet.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RecurseMet\RecurseMet\obj\Debug\RecurseMet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\RecurseMet\RecurseMet\obj\Debug\RecurseMet.Properties.Resources.resources
+C:\Users\Admin\source\repos\RecurseMet\RecurseMet\obj\Debug\RecurseMet.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\RecurseMet\RecurseMet\obj\Debug\RecurseMet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RecurseMet\RecurseMet\obj\Debug\RecurseMet.exe
+C:\Users\Admin\source\repos\RecurseMet\RecurseMet\obj\Debug\RecurseMet.pdb
+C:\Users\Admin\source\repos\RecurseMet\RecurseMet\obj\Debug\RecurseMet.Form1.resources
